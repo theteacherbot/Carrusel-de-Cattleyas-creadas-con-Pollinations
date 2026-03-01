@@ -48,5 +48,3 @@ Cada diapositiva incluye:
 --orchid: #b06090    /* Rosa orquídea */
 --orange: #d4622a    /* Naranja terracota */
 --text-dim: #7a6a55  /* Texto atenuado */
-
-Esta aplicación es un ejemplo bien estructurado de una presentación web elegante, ideal para museos, jardines botánicos o exposiciones de arte naturalista. El código es limpio, modular y fácilmente extensible para agregar más especies de orquídeas.
